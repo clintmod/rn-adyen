@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.reactnativeadyen">
+
+  <application>
+    <activity
+      android:name=".ui.CardComponentDialogActivity"
+      android:exported="true"
+      android:launchMode="singleTask"
+      android:theme="@style/Theme.Transparent"
+      android:parentActivityName="com.levi.reactnative.and.lse.MainActivity">
+      <meta-data
+        android:name="android.support.PARENT_ACTIVITY"
+        android:value="com.levi.reactnative.and.lse.MainActivity" />
+    </activity>
+    <activity
+      android:name=".ui.BcmcComponentDialogActivity"
+      android:exported="true"
+      android:launchMode="singleTask"
+      android:theme="@style/Theme.Transparent"
+      android:parentActivityName="com.levi.reactnative.and.lse.MainActivity">
+      <meta-data
+        android:name="android.support.PARENT_ACTIVITY"
+        android:value="com.levi.reactnative.and.lse.MainActivity" />
+    </activity>
+    <activity
+      android:name=".ui.IdealComponentDialogActivity"
+      android:exported="true"
+      android:launchMode="singleTask"
+      android:theme="@style/Theme.Transparent"
+      android:parentActivityName="com.levi.reactnative.and.lse.MainActivity">
+      <meta-data
+        android:name="android.support.PARENT_ACTIVITY"
+        android:value="com.levi.reactnative.and.lse.MainActivity" />
+    </activity>
+    <activity
+      android:name=".ui.EpsComponentDialogActivity"
+      android:exported="true"
+      android:launchMode="singleTask"
+      android:theme="@style/Theme.Transparent"
+      android:parentActivityName="com.levi.reactnative.and.lse.MainActivity">
+      <meta-data
+        android:name="android.support.PARENT_ACTIVITY"
+        android:value="com.levi.reactnative.and.lse.MainActivity" />
+    </activity>
+  </application>
+
+</manifest>

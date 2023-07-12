@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardList_top_margin">16dp</dimen>
+    <dimen name="brand_logo_width">24dp</dimen>
+    <dimen name="brand_logo_height">16dp</dimen>
+    <dimen name="payment_method_margin">26dp</dimen>
+    <dimen name="pay_button_height">60dp</dimen>
+    <dimen name="bottom_sheet_corner_radius">16dp</dimen>
+    <dimen name="bottom_sheet_top_padding">8dp</dimen>
+    <dimen name="indicator_width">26dp</dimen>
+    <dimen name="indicator_height">4dp</dimen>
+</resources>
